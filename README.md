@@ -1,4 +1,4 @@
-**### LagosExpress_Grocery FMCG Analytics (PostgreSQL)**
+### **LagosExpress_Grocery FMCG Analytics (PostgreSQL)**
 
 This repository contains a PostgreSQL-based analytics project for LagosExpress-Grocery, an FMCG company operating across multiple regions in Nigeria. The goal of this project is to analyze key business metrics such as:
 * Sales performance across products, regions, and time periods
