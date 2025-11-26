@@ -19,9 +19,11 @@ As a Data Analyst that was employed at LagosExpress-Grocery, you are tasked by t
 stake-holders to find:
 
 #### **Q1. Total amount each customer spent (JOIN): Insight:**
+
 Use JOINs and SUM() to calculate total spent per customer.
 
 #### **Q2. All customers, even those without purchases (LEFT JOIN):**
+
 Insight: LEFT JOIN helps identify inactive customers
 
 #### **Q3. All products and their sales, even if not sold (RIGHT JOIN): Insight:**
