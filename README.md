@@ -35,16 +35,16 @@ stake-holders to find:
 - Insight: Helps find the most profitable product categories.
 
 #### **Q5. Monthly sales totals for 2025 (DATE FUNCTION):**
-Insight: Shows revenue trends per month for 2025.
+- Insight: Shows revenue trends per month for 2025.
 
 #### **Q6. Classify customers based on spending (CASE): Insight:**
-Segments customers as Premium, Regular, or Low Value.
+- Segments customers as Premium, Regular, or Low Value.
 
 #### **Q7. Best-performing region (WITH): Insight:**
-WITH statement simplifies multi-step queries.
+- WITH statement simplifies multi-step queries.
 
 #### **Q8. Combine product categories and region names (UNION):**
-Insight: Demonstrates data merging across domains.
+- Insight: Demonstrates data merging across domains.
 
 #### **Q9. Beverage sales above ₦1,000 (Logical operators):**
-Insight: Identifies high-value transactions for analysis.
+- Insight: Identifies high-value transactions for analysis.
