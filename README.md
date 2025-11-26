@@ -20,17 +20,19 @@ stake-holders to find:
 
 #### **Q1. Total amount each customer spent (JOIN): Insight:**
 
-Use JOINs and SUM() to calculate total spent per customer.
+- Use JOINs and SUM() to calculate total spent per customer.
 
 #### **Q2. All customers, even those without purchases (LEFT JOIN):**
 
-Insight: LEFT JOIN helps identify inactive customers
+- Insight: LEFT JOIN helps identify inactive customers
 
 #### **Q3. All products and their sales, even if not sold (RIGHT JOIN): Insight:**
-RIGHT JOIN shows unsold items useful for stock planning.
+
+- RIGHT JOIN shows unsold items useful for stock planning.
 
 #### **Q4. Total sales revenue per category (AGGREGATION):**
-Insight: Helps find the most profitable product categories.
+
+- Insight: Helps find the most profitable product categories.
 
 #### **Q5. Monthly sales totals for 2025 (DATE FUNCTION):**
 Insight: Shows revenue trends per month for 2025.
